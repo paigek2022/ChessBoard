@@ -1,8 +1,8 @@
 # ChessBoard
 This is a python file of a coding practice problem. 
 
-Algorithm to print a chessboard pattern 
-"B" for black squares, "W" for white squares
+Algorithm to print a chessboard pattern; 
+"B" for black squares, "W" for white squares;
 Top left square should always be white 
 
 Input: 
